@@ -8,12 +8,12 @@ The goal of this project is to build a predictive model that estimates the proba
 
 ## 📋 Table of Contents
 - [Project Overview](#-project-overview)
-- [Dataset](#dataset)
-- [Modeling Approach](#modeling-approach)
-- [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [Future Work](#future-work)
-- [Contact](#Contact)
+- [Dataset](#-dataset)
+- [Modeling Approach](#-modeling-approach)
+- [Prerequisites](#-prerequisites)
+- [Usage](#-usage)
+- [Future Work](#-future-work)
+- [Contact](#-ontact)
 
 ## 📊 Dataset
 
