@@ -53,9 +53,6 @@ To run this notebook, you need to have the following libraries installed:
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- XGBoost (if used)
-- TensorFlow/Keras (if used)
-
 
 ## 🖥 Usage
 
